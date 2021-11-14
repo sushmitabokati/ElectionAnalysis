@@ -1,11 +1,7 @@
 ## ElectionAnalysis
 
 ### Overview of the Election Audit
-  Find the key statistical summary for the election commision. 
-  Analysis will focus on:
-    - The voter turnout for each county
-    - The percentage of votes from each county out of the total count
-    - The county with the highest turnout
+  Find the key statistical summary for the election commision. Analysis will focus on voter turnout for each county, percentage of votes from each county out of the total count and county with the highest turnout
     
 ###  Election-Audit Results
   <img width="1037" alt="ElectionStats" src="https://user-images.githubusercontent.com/93223274/141693801-eda8a253-d54d-49ac-b02f-2a9e502804ce.png">
